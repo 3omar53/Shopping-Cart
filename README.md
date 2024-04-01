@@ -1,4 +1,4 @@
-#Shopping Cart
+## Shopping Cart
 
 A simple shopping cart application for desserts. Users can add desserts to their cart, view the total number of items, and calculate the subtotal, taxes, and total amount.
 
